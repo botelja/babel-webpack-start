@@ -23,4 +23,4 @@ $ npm start
 Compile and build
 
 ```sh
-$ npm run buil
+$ npm run build
